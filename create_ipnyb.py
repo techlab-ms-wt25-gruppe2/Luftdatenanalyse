@@ -120,4 +120,5 @@ notebook_content = {
 
 with open("luftdaten_mit_excel.ipynb", 'w', encoding='utf-8') as f:
     json.dump(notebook_content, f, indent=1)
-print("Das Notebook 'luftdaten_mit_excel.ipynb' wurde erstellt.")
+print("Das Notebook 'luftdaten_mit_excel.ipynb' wurde erstellt.") 
+print('holy cow')
